@@ -1,0 +1,7 @@
+user_name = input(" your name")
+user_lastname=input(" your lastname")
+user_age=input(" your age")
+
+print("hello "  +  user_name)
+print("user full name is " +user_name +user_lastname)
+print("user age is " + user_age)
